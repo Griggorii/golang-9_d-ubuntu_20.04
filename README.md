@@ -14,6 +14,8 @@ $ GOOS=windows GOARCH=amd64 /usr/bin/x86_64-linux-gnu-gccgo-9 build -o name.exe
 
 $ GOOS=linux GOARCH=amd64 /usr/bin/x86_64-linux-gnu-gccgo-9 build -o name.exe
 
+Example all https://github.com/Griggorii/golang-9_d-ubuntu_20.04/blob/main/version.go
+
 Architect griggorii only real technologies full pack objecive , not any fictional parasitic distributions support real technology investments and donate dollar card VISA 4817 7601 8112 4706
 
 
