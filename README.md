@@ -10,6 +10,9 @@ Example command:
 
 $ GOOS=windows GOARCH=386 /usr/bin/x86_64-linux-gnu-gccgo-9 build -o name.exe
 
+$ GOOS=windows GOARCH=amd64 /usr/bin/x86_64-linux-gnu-gccgo-9 build -o http_example64.exe
+
+
 Architect griggorii only real technologies full pack objecive , not any fictional parasitic distributions support real technology investments and donate dollar card VISA 4817 7601 8112 4706
 
 
