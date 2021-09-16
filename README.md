@@ -20,7 +20,7 @@ Idea experiment according to my logic source target /usr replace /lib/x86_64-lin
 
 $ GOOS=linux GOARCH=amd64 DefaultGoroot=/usr /usr/bin/x86_64-linux-gnu-gccgo-9 build -o name
 
-/lib/x86_64-linux-gnu
+Example replace /lib/x86_64-linux-gnu
 
 $ GOOS=linux GOARCH=amd64 DefaultGoroot=/lib/x86_64-linux-gnu /usr/bin/x86_64-linux-gnu-gccgo-9 build -o name
 
