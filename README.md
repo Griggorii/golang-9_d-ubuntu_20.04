@@ -1,5 +1,5 @@
 # golang-9_d-ubuntu_20.04
-golang-9 , ubuntu 20.04 , zst
+golang-9 , ubuntu 20.04 , zst , .gox
 
 
 $ sudo tar xvpf griggorii_patent_golang-9-d-new-nano-os_ubuntu_20.04.tar.xz -C /
