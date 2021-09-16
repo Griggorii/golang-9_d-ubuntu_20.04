@@ -6,6 +6,10 @@ $ sudo tar xvpf griggorii_patent_golang-9-d-new-nano-os_ubuntu_20.04.tar.xz -C /
 
 Go relink gcc build nano kernel new happy end era evolution os micro nano library size minimum
 
+Example command:
+
+$ GOOS=windows GOARCH=386 /usr/bin/x86_64-linux-gnu-gccgo-9 build -o mame.exe
+
 Architect griggorii only real technologies full pack objecive , not any fictional parasitic distributions support real technology investments and donate dollar card VISA 4817 7601 8112 4706
 
 
